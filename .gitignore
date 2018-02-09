@@ -1,1 +1,4 @@
 *.gv*
+*.pyc
+.idea
+.idea/*
